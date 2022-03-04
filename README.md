@@ -3,7 +3,7 @@
   <img align="left" alt="Verduscos' LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<p>Hello, I'm Eddie, a full stack web developer passionate about development and someone who values the visual feedback of creating a clean, usable products. </p>
+<p>Hello, I'm Eddie, a full stack web developer passionate about development and someone who values the visual feedback of creating clean, usable products. </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verduscos&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/verduscos/github-readme-stats)
 

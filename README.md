@@ -1,6 +1,6 @@
 ### Hi there 👋 
 <a href="https://www.linkedin.com/in/eddie-verdusco/">
-  <img align="left" alt="Verduscos' LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<!--   <img align="left" alt="Verduscos' LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> -->
 </a>
 
 <p>Hello, I'm Eddie, a full stack web developer passionate about development and someone who values the visual feedback of creating clean, usable products. </p>
